@@ -1,7 +1,8 @@
 # RecyclerView3
 #Screenshot
 ![img-20170109-wa0013](https://cloud.githubusercontent.com/assets/22088378/21758217/080aa7ac-d66c-11e6-8bb1-b74878ea5603.jpg)
-![080aa7ac-d66c-11e6-8bb1-b74878ea5603](https://cloud.githubusercontent.com/assets/22088378/22194596/1912e932-e176-11e6-981a-b75954aeecb5.jpg)
+![080aa7ac-d66c-11e6-8bb1-b74878ea5603](https://cloud.githubusercontent.com/assets/22088378/22194691/826e6d0c-e176-11e6-9f2d-a62ac0ff14ef.jpg)
+
 
 #Identitas
 Nama : Vejryn Shaviero <br>
